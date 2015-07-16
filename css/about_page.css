@@ -1,0 +1,105 @@
+body {
+  padding-top: 50px;
+  background-color: #E8E8E8;
+}
+
+.navbar-brand {
+	font-size: 30px;
+}
+.navbar-static-top {
+  margin-bottom:10px;
+}
+
+.navbar {
+	font-size: 15px;
+}
+
+.btn-success {
+	background-color: #2b2d2e;
+	border-color: grey;
+}
+.btn-success:hover {
+   background-color: grey;
+		border-color: white;
+}
+
+.jumbotron {
+  height:500px;
+  background-image: url("../photos/flykid.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+  font-weight:bold;
+  border:3px solid black;
+  text-align:center;
+}
+
+
+.smoke
+{
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+
+.learn-more {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 5px;
+}
+
+.learn-more p {
+  font-size: 20px;
+}
+
+.learn-more h1 {
+  font-size: 60px;
+}
+
+.learn-more img {
+  padding-top: 10px;
+  height: 500px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+footer {
+  height: 100px;
+  width: 100%;
+  background-color: #2b2d2e;
+  color:white;
+  bottom: 0;
+}
+
+footer .container {
+  width: auto;
+  max-width: 80%;
+  padding-top: 20px;
+}
+
+footer .container .text-muted {
+  margin: 20px 0;
+}
+
+.footer-links {
+  float: right;
+}
+
+.footer-links > li {
+  display: inline-block;
+  margin-left: 0;
+}
+
+.footer-links > li > a {
+  border-right: 1px solid #e3e3e3;
+  margin-right: 0.3333em;
+  padding: 0 0.5em 0 0 ;
+  white-space: nowrap;
+  color: white;
+}

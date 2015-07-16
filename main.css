@@ -1,0 +1,16 @@
+.panel {
+  margin-top: 15px;
+}
+
+.headtitle {
+  text-align: center;
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+body {
+  padding-top: 50px;
+  background-color: #E8E8E8;
+}
